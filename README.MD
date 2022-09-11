@@ -1,5 +1,6 @@
-##PacMan Game Project
-#Python Language
+PacMan Game Project
+
+Python Language
 
 Group: Randy Nguyen
 rqnguyen77@gmail.com
