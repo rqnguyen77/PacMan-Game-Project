@@ -1,10 +1,9 @@
-CPSC386 Project 2
+##PacMan Game Project
+#Python Language
 
 Group: Randy Nguyen
-randyxnguyen77@csu.fullerton.edu
+rqnguyen77@gmail.com
 
-Pacman game project
-
-Run in Pycharm and intall pygame packages
+Run in Pycharm and install pygame packages.
 
 Did not do a title screen
